@@ -1,0 +1,10 @@
+#hero{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.botones{
+    padding: 30px 0;
+}
